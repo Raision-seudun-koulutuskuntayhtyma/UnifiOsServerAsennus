@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
   <diagram name="Page-1" id="lWYQp7f0HqdyAmQqyg6o">
-    <mxGraphModel dx="983" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,6 +82,15 @@
         </mxCell>
         <mxCell id="LwMMfDTNkf4y3cu5zAga-13" parent="1" style="verticalLabelPosition=middle;sketch=0;aspect=fixed;html=1;verticalAlign=middle;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;labelPosition=center;fontSize=32;" value="Internet" vertex="1">
           <mxGeometry height="160" width="245.15" x="810" y="270.75" as="geometry" />
+        </mxCell>
+        <mxCell id="LwMMfDTNkf4y3cu5zAga-23" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=-91;" value="" vertex="1">
+          <mxGeometry height="50" width="42" x="585" y="527" as="geometry" />
+        </mxCell>
+        <mxCell id="LwMMfDTNkf4y3cu5zAga-24" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=-110;" value="" vertex="1">
+          <mxGeometry height="50" width="42" x="730" y="527" as="geometry" />
+        </mxCell>
+        <mxCell id="LwMMfDTNkf4y3cu5zAga-25" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=-170;" value="" vertex="1">
+          <mxGeometry height="50" width="42" x="830" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
